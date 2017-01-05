@@ -1,0 +1,44 @@
+
+
+.card {
+  float: left;
+  width: 30%;
+  border: 1px solid lightblue;
+  margin-left: 30px;
+}
+
+.product-title {
+  border-bottom: 1px dotted lightgray;
+  text-align: center;
+}
+
+.itempic {
+  display: block;
+  margin: auto;
+}
+
+.description {
+  text-align: justify;
+  padding: 20px;
+}
+
+.specs {
+  font-weight: bold;
+  font-size: .8em;
+  margin: 0;
+  padding-left: 5px;
+}
+
+.availability {
+  color: yellow;
+  background: gray;
+}
+
+footer {
+  font-size: .5em;
+  padding-left: 5px;
+}
+h3 {
+  margin-bottom: 0;
+  padding-left: 5px;
+}
